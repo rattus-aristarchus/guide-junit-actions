@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jul 10 09:12:33 GMT 2024","Wed Jul 10 09:12:33 GMT 2024","29","","org.allure.junit5_jenkins.StepTest","","org.allure.junit5_jenkins.StepTest","annotatedStepTest","annotatedStepTest()",""
+"broken","Wed Jul 10 09:12:28 GMT 2024","Wed Jul 10 09:12:32 GMT 2024","4974","","org.allure.junit5_jenkins.SelenideTest","","org.allure.junit5_jenkins.SelenideTest","testMainPage","testMainPage()",""
+"passed","Wed Jul 10 09:12:33 GMT 2024","Wed Jul 10 09:12:33 GMT 2024","4","","org.allure.junit5_jenkins.StepTest","","org.allure.junit5_jenkins.StepTest","lambdaStepTest","lambdaStepTest()",""

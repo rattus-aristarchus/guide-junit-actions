@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"fed188050b10ff30e760ef90d43410b7","name":"org.allure.junit5_jenkins.SelenideTest","statistic":{"failed":0,"broken":1,"skipped":0,"passed":0,"unknown":0,"total":1}},{"uid":"c21870bfdb720fbf15facfda55ab582a","name":"org.allure.junit5_jenkins.StepTest","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}}]}
