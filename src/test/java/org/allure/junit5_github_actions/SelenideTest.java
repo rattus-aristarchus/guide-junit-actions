@@ -1,4 +1,4 @@
-package org.allure.junit5_jenkins;
+package org.allure.junit5_github_actions;
 
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.Configuration;
@@ -18,7 +18,7 @@ public class SelenideTest {
     static void setupAllureReports() {
         SelenideLogger.addListener("AllureSelenide", new AllureSelenide());
     }
-
+/**
     @BeforeAll
     static void setupSelenoid() {
         Configuration.remote = "https://user1:1234@selenoid.autotests.cloud/wd/hub";
@@ -28,7 +28,7 @@ public class SelenideTest {
         //   capabilities.setCapability(capabilityName: "enableVideo", value: true);
         //   Configuration.browserCapabilities = capabilities;
     }
-
+**/
     @Test
     public void testMainPage() {
         Allure.step("Open main page", (step) -> {
