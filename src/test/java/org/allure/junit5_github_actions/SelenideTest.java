@@ -1,4 +1,4 @@
-package org.allure.junit5_jenkins;
+package org.allure.junit5_github_actions;
 
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.logevents.SelenideLogger;
