@@ -21,7 +21,7 @@ public class SelenideTest {
 
     @BeforeAll
     static void setupSelenoid() {
-        Configuration.remote = "https://localhost:8080/wd/hub";
+        Configuration.remote = "https://localhost:4444/wd/hub";
     }
 
     @Test
